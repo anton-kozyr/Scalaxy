@@ -1,0 +1,27 @@
+{
+    "turn": 5,
+    "races": [
+        {
+            "name": "ants",
+            "attack": 2,
+            "defence": 1,
+            "speed": 1,
+            "fertility": 1,
+            "planets": [
+                {
+                    "id": 234,
+                    "size": 67,
+                    "pop": 67
+                }
+            ],
+            "fleets": [
+                {
+                    "from": 234,
+                    "to": 764,
+                    "size": 18,
+                    "eta": 2
+                }
+            ]
+        }
+    ]
+}

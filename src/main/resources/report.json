@@ -1,0 +1,50 @@
+{
+    "race": "ants",
+    "turn": 5,
+    "report": {
+        "attack": 2,
+        "defence": 1,
+        "speed": 1,
+        "fertility": 1,
+        "your planets": [
+            {
+                "id": 234,
+                "size": 67,
+                "pop": 67
+            }
+        ],
+        "enemy planets": [
+            {
+                "id": 764,
+                "size": null,
+                "pop": null
+            },
+            {
+                "id": 641,
+                "size": 38,
+                "pop": null
+            },
+            {
+                "id": 473,
+                "size": 49,
+                "pop": 18
+            }
+        ],
+        "your fleets": [
+            {
+                "from": 234,
+                "to": 764,
+                "size": 18,
+                "eta": 2
+            }
+        ],
+        "enemy fleets": [
+            {
+                "from": 764,
+                "to": 234,
+                "size": 12,
+                "eta": 1
+            }
+        ]
+    }
+}
